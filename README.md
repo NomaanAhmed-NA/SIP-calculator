@@ -21,14 +21,13 @@
     A. Functional Testing -Test the program's ability to handle incorrect inputs.
     B. Calculation Testing -Use standard SIP examples to verify the output.
     eg-INPUT -
-               Enter the monthly investment amount (in your currency, e.g., 5000): 5000
-               Enter the expected annual return rate (in percentage, e.g., 12 for 12%): 12
-               Enter the investment time period (in years, e.g., 10): 5
+               Enter the monthly investment amount: 5000
+               Enter the expected annual return rate: 12
+               Enter the investment time period: 5
        OUTPUT-
                Monthly Investment: 5,000.00
                Annual Rate: 12.0%
                Time Period: 5 years (60 months)
-               ----------------------------------------
                Total Amount Invested (Principal): 300,000.00
                Estimated Wealth Gained (Interest): 112,431.83
                Estimated Future Value: 412,431.83
