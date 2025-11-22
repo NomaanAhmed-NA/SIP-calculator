@@ -28,6 +28,6 @@
                Monthly Investment: 5,000.00
                Annual Rate: 12.0%
                Time Period: 5 years (60 months)
-               Total Amount Invested (Principal): 300,000.00
-               Estimated Wealth Gained (Interest): 112,431.83
+               Total Amount Invested: 300,000.00
+               Estimated Wealth Gained: 112,431.83
                Estimated Future Value: 412,431.83
